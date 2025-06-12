@@ -39,7 +39,7 @@
     # When using multiple assistants, set the following.
     OPENAI_ASSISTANTS='[{"id": "asst_xxx", "title": "Assistants XXX UI"}, {"id": "asst_yyy", "title": "Assistants YYY UI"}]'
    
-   # App setting
+   # App settings
     ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
     AUTHENTICATION_REQUIRED="False" # Must change to True if you require authentication
     ```
@@ -102,7 +102,7 @@ ASSISTANT_TITLE="Assistants API UI" # This is for the single agent title
 # When using multiple assistants, set the following.
 OPENAI_ASSISTANTS='[{"id": "asst_xxx", "title": "Assistants XXX UI"}, {"id": "asst_yyy", "title": "Assistants YYY UI"}]'
 
-# App setting
+# App settings
 ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
 AUTHENTICATION_REQUIRED="False" # Must change to True if you require authentication
 
