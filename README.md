@@ -31,7 +31,7 @@
     ```bash
     # OpenAI settings
     OPENAI_API_KEY="sk-xxx"
-    APP_ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
+    ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
 
     AUTHENTICATION_REQUIRED="False" # Must change to True if you require authentication
 
@@ -93,7 +93,7 @@ To use authentication with Streamlit Cloud, please use this TOML format:
 # Environment variables
 # OpenAI settings
 OPENAI_API_KEY="sk-xxx"
-APP_ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
+ENABLED_FILE_UPLOAD_MESSAGE="Upload a file" # Leave empty to disable
 
 AUTHENTICATION_REQUIRED="False" # Must change to True if you require authentication
 
